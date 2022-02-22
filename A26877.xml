@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend in Abingdon, to a gentleman in London concerning the election of Burgesses for the ensuing Parliament.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26877</idno>
+            <idno type="STC">Wing B12</idno>
+            <idno type="STC">ESTC R2587</idno>
+            <idno type="EEBO-CITATION">13174327</idno>
+            <idno type="OCLC">ocm 13174327</idno>
+            <idno type="VID">98337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend in Abingdon, to a gentleman in London concerning the election of Burgesses for the ensuing Parliament.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: A. B.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98337:1"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:98337:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <head>A LETTER FROM A FRIEND IN Abingdon, TO A Gentleman in <hi>LONDON.</hi> CONCERNING The Election of Burgeſſes for the enſuing PARLIAMENT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have yours of the 2 <hi>d.</hi> of this Month, and find you are Big with Expectation what the Iſſue of our prolong'd Election will be. In purſuance of your requeſt, as well for prevent<g ref="char:EOLhyphen"/>ing all falſe Reports, as for your own private Satisfaction: I do hereby give you the true, impartial and juſt Account of the whole Series of our Election for this Town; which was on <hi>Saturday</hi> the 6th of <hi>September,</hi> 1679. That day there was a very great Appea<g ref="char:EOLhyphen"/>rance in the Town of Gentlemen of Quality on both ſides, long Expecting the Summons of the Mayor to the Hall, till near Ele<g ref="char:EOLhyphen"/>ven a Clock, his Proclamation being for 8. The Candidates for our Election were Sir <hi>J. Stonehouſe</hi> of <hi>Radley,</hi> and <hi>M. Dunch</hi> of <hi>Puſey</hi> 
+               <abbr>Eſq</abbr>. The General Cry of the Town was a <hi>Dunch,</hi> a <hi>Dunch;</hi> but the <hi>Mayor</hi> not being willing to determin the Election by View, the Poll was granted, which laſted 3 hours or more, the Voices on Sir <hi>J.</hi> his ſide were 171; On <hi>M. Dunch's</hi> ſide 297, the Majority, 126. On the Cloſe of the Poll the Court was adjourned till 5 a
+<pb n="2" facs="tcp:98337:2"/>
+               <!-- PDF PAGE 31 -->
+Clock in the Afternoon, about which time the Mayor and his Brethren met in the Councel-Chamber to debate the Election; they were very full of Queries, being altogether ignorant of the Conſtant practice of former Elections, as alſo of the Nature and extent of their Charter, which hath made and conſtituted them both a Burrough and Corporation at the ſame time; a hundred years or more; ever ſince the Reign of Queen <hi>Mary,</hi> and is both by Charter and Cuſtom a Popular Election. But who ſo blind as they that can ſee, but will not ſee? or who ſo unnatural as thoſe that Act violence on themſelves? But give me leave be<g ref="char:EOLhyphen"/>fore I conclude my Relation, a little to divert you with ſome pleaſant Occurrances before and ſince the Election. The Ele<g ref="char:EOLhyphen"/>ction of our Knights for this County was on <hi>Monday</hi> the 24th of <hi>Auguſt</hi> 1679. where the Sheriff did declare before ſeveral Per<g ref="char:EOLhyphen"/>ſons, (being urged to deliver the Precept into ſome private hand) That he would not, durſt not do it, by reaſon of an Order of Council, requiring the Expedition of all Elections: But that he would the very next day deliver the ſaid Precept into the Mayor's own hand, which accordingly he did in the Preſence of ſeveral Witneſſes, who then thereupon took occaſion, to deſire Mr. Mayor, That the Election might be on <hi>Fryday</hi> or <hi>Saturday</hi> follow<g ref="char:EOLhyphen"/>ing which had been Legal, and is uſual notice to all perſons con<g ref="char:EOLhyphen"/>cerned. All his Reply was, He muſt Adviſe with his Council where we muſt leave him for near 3 weeks. The whole deſign of this delay Modeſtly judged, by indifferent, ſober perſons on the One ſide, to increaſe the Expence and Charge of the ſaid <hi>M. Dunch,</hi> and on the other hand to Diſingage his Party from him; To Inſtance you in a few particulars, Three Conſiderable Perſons in the Corporation, (or at leaſt ſo reputed) took a Liſt of all thoſe Perſons names that were Tenants to the Town or Hoſpital, and ſome few days before the Election went to them ſeverally in the Name of the Mayor, Bayliffs and Burgeſſes, deſiring them to Vote for Sir <hi>J.</hi> promiſing them great Immunities if they would, and withal threatning them ſeverely if they would not: And told them, That they ſhould be raiſed in their Fines, and taxed at greater Rates then they were before, and to ſome ſaid, They ſhould never renew their Leaſes any more. But finding this hook not to take, they reſolve on Harſher Terms, and <hi>Interro<g ref="char:EOLhyphen"/>rem</hi> they arreſt and Impriſon ſeveral that they knew would Vote for Mr. <hi>Dunch</hi> upon divers pretences, ſome the Mayor pretended
+<pb n="3" facs="tcp:98337:2"/>
+               <!-- PDF PAGE 31 -->
+diſobeyed his Authority, though I hear little or no reaſon for it, Others for Old Dormant and Inconſiderable Debts, due to the Corporation; but obſerved, not one, of the many Debtors that promiſed to Vote for Sir <hi>J.</hi> though more in number, and far more Conſiderable ſummes due from them, were in the leaſt mo<g ref="char:EOLhyphen"/>leſted. But for Brevity ſake I ſhall now return to the Poll, where it was Obſerved, that one Cavelling Perſon made it his buſineſs to Quere almoſt all <hi>M. Dunch</hi>'s Voices, and being asked why he would offer to Quere ſuch and ſuch Credible and ſubſtan<g ref="char:EOLhyphen"/>tial Perſons, he Anſwered, He would Quere them for Luck fake, out of oppoſition; and for their own Advantage: Which in truth was a Bold Aſſertion of their Paſſionate Speeches given out by ſome of them Long before the Election, That if <hi>M. Dunch</hi> had 100 Voices and Sir <hi>J.</hi> but 6, they were reſolved to return Sir <hi>J.</hi> not knowing but that Thirteen might be more then One and Twenty, and thereby Prejudging the Juſtice of the next Parlia<g ref="char:EOLhyphen"/>ment. About 8 at night of the Election-Day <hi>M. Dunch,</hi> with ſome of his Friends, went to the Mayor then in Councel with his Brethren, to demand a Return according to Law, finding the Majority on his Poll: The Mayor Adjourned his Anſwer till <hi>Monday</hi> Morning, on which Day <hi>M. Dunch</hi> came into our Town again, accompanied with at leaſt 100 Horſe and near two Hun<g ref="char:EOLhyphen"/>dred Foot of his Electors, in a very handſome and decent order, Unanimouſly Crying a <hi>Dunch</hi> a <hi>Dunch.</hi> The Mayor and his Bre<g ref="char:EOLhyphen"/>thren being then in Councel could not agree, finding the great odds upon the Poll, ſo that they Adjourned again till 5 in the Af<g ref="char:EOLhyphen"/>ternoon; When met, the Mayor declared to his Brethren, That he had Examined the Poll and found that the Number 171 was greater then 297, and therefore declared Sir <hi>J.</hi> their Burgeſs One of the Bailiffs asked him how he could make that out, He gave no other Anſwer, but that he was very well ſatisfied in what he had done. Whereupon <hi>Mr. Dunch's</hi> Friends being much diſſatisfied, withdrew, having firſt Proteſted againſt their Illegal Proceeding. But I ſhall obſerve one thing to you, by the way, That whatſoever Declaration was made, was privately in the Councel Chamber among themſelves, and not Publickly in the Town-Hall, where the Precept was read, as the uſual Cuſtom of the Town hath been upon all their Elections, and as it is ſup<g ref="char:EOLhyphen"/>poſed the Law directs for the ſatisfaction of the Electors what Perſon is their Burgeſs: Whereupon the Women and Children
+<pb n="4" facs="tcp:98337:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+conceiving a General diſſatisfaction, Hiſſed the Mayor home to his own Houſe, Crying a <hi>Cheat</hi> a <hi>Cheat.</hi> The next Morning <hi>M. Dunch's</hi> Councel drew up an Indenture under the Hand and Seals of his Electors; And went to tender it to the Mayor to have the <hi>Common Seal</hi> Affixed to it; but the Mayor was denyed. But at length was obſerved to go into the <hi>Town-Clerk's</hi> houſe: Imme<g ref="char:EOLhyphen"/>diately <hi>M. Dunch</hi> with his Councel and ſome Friends went thi<g ref="char:EOLhyphen"/>ther, where he was denied alſo, Notwithſtanding ſeveral of the Neighbours affirmed, That he was but juſt gone in. The Mayor having notice given him, by one that was ſet to watch; ſo great was his <hi>Guilt</hi> and <hi>Panick Fear,</hi> that he went forth at the <hi>Back-door</hi> of the Houſe and ſo over a <hi>High Wall,</hi> where he ſecreted himſelf amongſt the <hi>Nettles,</hi> and kept himſelf <hi>incognito</hi> all that day, and the next, until <hi>M. Dunch</hi> and his Councel were gone out of Town.</p>
+            <p>This is a true and ſhort account of what things (at preſent) comes into my Memory concerning our Election. I may Poſſi<g ref="char:EOLhyphen"/>bly at my next meeting give you a more particular and larger Account of the whole. In the mean time I reſt,</p>
+            <closer>
+               <signed>Your Faithful Friend <hi>A. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT,</head>
+            <p>IT is to be particularly obſerved, that every <hi>Papiſt</hi> in <hi>Abingdon</hi> (ex<g ref="char:EOLhyphen"/>cept one who gave no Voice) Poled for Sir <hi>J.</hi> and all the Neighbour<g ref="char:EOLhyphen"/>ing <hi>Papiſt</hi> uſed their utmoſt Endeavours to carry on his Intereſt. Eſpe<g ref="char:EOLhyphen"/>cially one of a very great Eſtate was heard to ſay, <hi>He would not for 1000 <hi>l.</hi> but that Sir <hi>J.</hi> ſhould be our Burgeſs.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
